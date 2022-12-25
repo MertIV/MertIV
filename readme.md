@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am a software engineer with an entrepreneurial mindset.<br>💬 Turning ideas into products is my most immense urge to become a developer.<br>👨🏻‍💻 I have been proficient in Python for 4 years and Javascript for 2 years. Also used C# and Typescript for the roles I've been. <br>🌱 I’m learning Swift to get into Mobile Development<br>📩 Ask me anything via e-mail or add me on LinkedIn
+🔭 I am a software engineer with an entrepreneurial mindset.<br>💬 Turning ideas into products is my most immense urge to become a developer.<br>👨🏻‍💻 I have been proficient in Python for 4 years and Javascript for 2 years. Also developed C# and Typescript for the roles I've been and currently in. <br>🌱 I’m learning Swift to get into Mobile Development<br>📩 Ask me anything via e-mail or add me on LinkedIn
 
 
 ## 🌐 Socials:
